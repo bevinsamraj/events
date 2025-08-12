@@ -1,11 +1,12 @@
-<!-- Header with logo + name inline -->
+<!-- Header -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="HLM 04 Events App Logo" width="90" height="90" style="vertical-align: middle;"/>
-  <span style="font-size: 2.4em; font-weight: bold; vertical-align: middle; margin-left: 12px;">HLM 04 Events App</span>
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="HLM 04 Events App Logo" width="256" height="256" />
 </p>
 
+<h1 align="center">HLM 04 Events App</h1>
+
 <p align="center">
-  <em>Plan, manage, and track church events with notes — fast, modern, and built with Flutter.</em>
+  <em>A modern, fast, and easy-to-use event management app for pastors — built with Flutter</em>
 </p>
 
 <p align="center">
@@ -21,23 +22,22 @@
 
 ## ✨ Highlights
 
-- 📅 **View Scheduled Events** – Calendar & list views to see what’s coming up at a glance  
-- ➕ **Add Events** – Create events with title, date/time, location, and tags  
-- ✏️ **Edit & Delete** – Update details anytime or remove canceled events  
-- 📝 **Add Notes per Event** – Attach prayer points, agendas, and follow-ups to each event  
-- 🔔 **(Optional) Reminders** – Notify the pastor/team before an event  
-- 🔎 **Search & Filters** – Find events by name, date, or tag quickly  
-- ⚡ **Smooth & Fast** – Optimized for quick navigation and offline-friendly storage *(configurable)*
+- 📅 **View Scheduled Events** – See all upcoming meetings and prayer gatherings in one place  
+- ➕ **Add Events** – Create events with title, date, time, and location details  
+- ✏️ **Edit & Delete Events** – Update details anytime or remove canceled events  
+- 📝 **Add Notes to Events** – Record prayer points, agendas, and key reminders for each meeting  
+- 🔔 **Reminders (Optional)** – Notify pastors before events start  
+- 🔎 **Search & Filter** – Quickly find events by name, date, or category  
 
 ---
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/1.png" alt="Dashboard / Calendar" width="200">
-  <img src="assets/2.png" alt="Event Details + Notes" width="200">
-  <img src="assets/3.png" alt="Add / Edit Event" width="200">
-  <img src="assets/4.png" alt="Scheduled Events List" width="200">
+  <img src="image/1.png" alt="Event Dashboard" width="200">
+  <img src="image/2.png" alt="Event Details with Notes" width="200">
+  <img src="image/3.png" alt="Add / Edit Event" width="200">
+  <img src="image/5.png" alt="Scheduled Events List" width="200">
 </p>
 
 ---
@@ -46,18 +46,18 @@
 
 - **Framework:** Flutter  
 - **Language:** Dart  
-- **State Management:** Provider / Riverpod *(update to what you use)*  
+- **State Management:** Provider / Riverpod *(update to actual)*  
 - **Storage:** SharedPreferences / Hive / SQLite *(update to actual)*  
-- **Notifications:** flutter_local_notifications *(optional, if enabled)*
+- **Notifications:** flutter_local_notifications *(if reminders enabled)*
 
 ---
 
 ## 🚀 Quick Start
 
 ```bash
-# Clone your repo
-git clone <your-repo-url>
-cd <your-project-folder>
+# Clone the repository
+git clone https://github.com/bevinsamraj/EventsApp.git
+cd EventsApp
 
 # Install dependencies
 flutter pub get
