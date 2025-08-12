@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="HLM 04 Events App Logo" width="256" height="256" />
+  <img src="android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" alt="HLM 04 Events App Logo" width="256" height="256" />
 </p>
 
 <h1 align="center">HLM 04 Events App</h1>
@@ -37,7 +37,7 @@
   <img src="image/1.png" alt="Event Dashboard" width="200">
   <img src="image/2.png" alt="Event Details with Notes" width="200">
   <img src="image/3.png" alt="Add / Edit Event" width="200">
-  <img src="image/5.png" alt="Scheduled Events List" width="200">
+  <img src="image/4.png" alt="Scheduled Events List" width="200">
 </p>
 
 ---
