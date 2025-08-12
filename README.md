@@ -34,10 +34,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="image/1.png" alt="Event Dashboard" width="200">
-  <img src="image/2.png" alt="Event Details with Notes" width="200">
-  <img src="image/3.png" alt="Add / Edit Event" width="200">
-  <img src="image/4.png" alt="Scheduled Events List" width="200">
+  <img src="assets/1.png" alt="Event Dashboard" width="200">
+  <img src="assets/2.png" alt="Event Details with Notes" width="200">
+  <img src="assets/3.png" alt="Add / Edit Event" width="200">
+  <img src="assets/4.png" alt="Scheduled Events List" width="200">
 </p>
 
 ---
