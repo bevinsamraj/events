@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="256" height="256" />
+  <img src="android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" alt="Flutter Bible App Logo" width="256" height="256" />
 </p>
 
 <h1 align="center">HLM 04 Bible App</h1>
@@ -38,7 +38,7 @@
   <img src="assets/1.png" alt="Home" width="200">
   <img src="assets/2.png" alt="Chapter" width="200">
   <img src="assets/3.png" alt="Verse" width="200">
-  <img src="assets/5.png" alt="Stats" width="200">
+  <img src="assets/4.png" alt="Stats" width="200">
 </p>
 
 ---
