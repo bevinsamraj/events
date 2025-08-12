@@ -35,10 +35,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="image/1.png" alt="Home" width="200">
-  <img src="image/2.png" alt="Chapter" width="200">
-  <img src="image/3.png" alt="Verse" width="200">
-  <img src="image/5.png" alt="Stats" width="200">
+  <img src="assets/1.png" alt="Home" width="200">
+  <img src="assets/2.png" alt="Chapter" width="200">
+  <img src="assets/3.png" alt="Verse" width="200">
+  <img src="assets/5.png" alt="Stats" width="200">
 </p>
 
 ---
